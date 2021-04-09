@@ -1,2 +1,1 @@
-# Lab7
-Basic JavaScript Event Handling and DOM
+# Lab7 - Basic JavaScript Event Handling and DOM
